@@ -1,0 +1,10 @@
+<project>
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>de.quoss</groupId>
+    <artifactId>utility-projects</artifactId>
+    <version>1.0</version>
+    <packaging>pom</packaging>
+    <modules>
+        <module>name-provider</module>
+    </modules>
+</project>
