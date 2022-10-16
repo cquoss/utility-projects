@@ -1,0 +1,9 @@
+<project>
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>de.quoss</groupId>
+        <artifactId>postal-code-provider</artifactId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+    <artifactId>postal-code-provider-api</artifactId>
+</project>

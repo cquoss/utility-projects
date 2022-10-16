@@ -1,0 +1,15 @@
+<project>
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>de.quoss</groupId>
+        <artifactId>utility-projects</artifactId>
+        <version>1.0</version>
+    </parent>
+    <artifactId>postal-code-provider</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+    <modules>
+        <module>postal-code-provider-api</module>
+        <module>default-postal-code-provider</module>
+    </modules>
+</project>
