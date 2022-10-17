@@ -8,6 +8,8 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
     <modules>
+        <module>create-insert-statements</module>
+        <module>date-of-birth-provider</module>
         <module>name-provider</module>
         <module>postal-code-provider</module>
     </modules>
